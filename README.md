@@ -1,5 +1,5 @@
-##Data modeling with Postgres
-###Summary
+## Data modeling with Postgres
+### Summary
 Using the song and log datasets, you'll need to create a star schema optimized for queries on song play analysis. This includes the following tables.
 
 * Fact Table:
@@ -25,5 +25,5 @@ The project includes six files:
 * sql_queries.py contains all your sql queries, and is imported into the last three files above.
 README.md provides discussion on your project.
 
-###Build ETL Pipeline
+### Build ETL Pipeline
 Run create_tables.py to create/reset your tables. Run etl.py to process the entire datasets  Run test. Finally run test.ipynb to confirm your records were successfully inserted into each table.
